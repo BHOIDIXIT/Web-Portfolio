@@ -36,7 +36,6 @@
 # 📸 Screenshots
 
 | Home Page |
-|---|---|
 | ![](./public/home.png) |
 
 ---
