@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 React Project Name
+# 🚀 React web-Portfolio
 
 ### Modern React Application Built With React + Vite
 
@@ -35,8 +35,8 @@
 
 # 📸 Screenshots
 
-| Home Page |
-| ![](./public/home.png) |
+Home Page 
+![](./public/home.png)
 
 ---
 
