@@ -1,0 +1,59 @@
+@import "tailwindcss";
+.Background {
+  background-color: #161513;
+}
+.Primary {
+  background-color: #222222;
+}
+.Accent-Orange {
+  background-color: #ff6b35;
+}
+.Accent-Blue {
+  background-color: #3b82f6;
+}
+.Text-Gray {
+  background-color: #9ca3af;
+}/* Text Gradient CSS */
+.text-gradient {
+  color: #ff8a00;
+  background-image: linear-gradient(
+    45deg,
+    #ff8a00 ,
+    #ef3f50 33%,
+    #782e94 67%,
+    #2a1772 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Projects Text Gradient CSS */
+.Projects-gradient {
+  color: #ff8660;
+  background-image: linear-gradient(
+    45deg,
+    #ff8660 ,
+    #d5491d 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/* Experience Text Gradient CSS */
+.experience-gradient {
+  color: #5badff;
+  background-image: linear-gradient(
+    45deg,
+    #5badff ,
+    #1373d1 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+html, body {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
